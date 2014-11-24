@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfDirectoryConf xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <DirectoryConf>
+    <confisactive>true</confisactive>
+    <trade>AEC_SOURCE</trade>
+    <tradeshortcut>AEC</tradeshortcut>
+    <targetwing>NB</targetwing>
+    <targetlevels>EG00,OG01,OG02,OG03,OG04,OG05,OG06,OG07,OG08,OG09</targetlevels>
+    <naming>[DIRCONF_BASENUMBER]_
+[DIRCONF_TRADESC]_
+[PROJ_NUMBER]_
+[PROJ_LEVEL]_
+[PROJ_WING]_
+K</naming>
+    <template>C:\ProgramData\Autodesk\MEP 2014\deu\Template\Aec Modell (D A CH Ctb).dwt</template>
+    <tradestoinclude />
+    <tradeunit>Meter</tradeunit>
+    <generateIndexPac>false</generateIndexPac>
+    <dwgsubtype>Floorplan</dwgsubtype>
+    <viewmaster />
+    <sheetSourceLayout />
+    <sheetNumberBase>300</sheetNumberBase>
+    <sheetNumberIncrement>1</sheetNumberIncrement>
+    <sheetUseViews>false</sheetUseViews>
+    <sheetAddReferences>false</sheetAddReferences>
+  </DirectoryConf>
+</ArrayOfDirectoryConf>

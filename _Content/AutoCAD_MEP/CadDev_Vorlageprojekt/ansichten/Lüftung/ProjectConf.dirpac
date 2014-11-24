@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfDirectoryConf xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <DirectoryConf>
+    <confisactive>true</confisactive>
+    <trade>TRADE</trade>
+    <tradeshortcut>LU</tradeshortcut>
+    <targetwing>NB</targetwing>
+    <targetlevels>OG03,OG02,OG01,EG00</targetlevels>
+    <naming>[DIRCONF_BASENUMBER]_
+[DIRCONF_TRADESC]_
+[PROJ_NUMBER]_
+[PROJ_LEVEL]_
+[PROJ_WING]_
+A</naming>
+    <template />
+    <tradestoinclude>AEC
+LU</tradestoinclude>
+    <tradeunit>Millimeter</tradeunit>
+    <generateIndexPac>false</generateIndexPac>
+    <dwgsubtype>Floorplan</dwgsubtype>
+    <viewmaster>D:\Daten-Arbeit\Eigene\_Content\AME\CadDev_Vorlageprojekt - 2013\ansichten\ViewMaster\Views_Gewerk.dwg</viewmaster>
+    <sheetSourceLayout />
+    <sheetNumberBase>430</sheetNumberBase>
+    <sheetNumberIncrement>1</sheetNumberIncrement>
+    <sheetUseViews>false</sheetUseViews>
+    <sheetAddReferences>false</sheetAddReferences>
+  </DirectoryConf>
+</ArrayOfDirectoryConf>

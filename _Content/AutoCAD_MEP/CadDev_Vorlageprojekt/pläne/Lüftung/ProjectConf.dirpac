@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfDirectoryConf xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <DirectoryConf>
+    <confisactive>true</confisactive>
+    <trade>TRADE</trade>
+    <tradeshortcut>LU</tradeshortcut>
+    <targetwing>NB</targetwing>
+    <targetlevels>OG02,OG01,EG00</targetlevels>
+    <naming>[DIRCONF_RUNNUMBER]_
+[DIRCONF_TRADESC]_
+[PROJ_NUMBER]_
+[PROJ_LEVEL]_
+[PROJ_WING]_
+S</naming>
+    <template>C:\ProgramData\Autodesk\MEP 2014\deu\Template\Aecb Sheet (D A CH Ctb) mm.dwt</template>
+    <tradestoinclude>LU
+AEC</tradestoinclude>
+    <tradeunit>Millimeter</tradeunit>
+    <generateIndexPac>false</generateIndexPac>
+    <dwgsubtype>Floorplan</dwgsubtype>
+    <viewmaster />
+    <sheetSourceLayout>ISO A0 (841 x 1189)</sheetSourceLayout>
+    <sheetNumberBase>420</sheetNumberBase>
+    <sheetNumberIncrement>1</sheetNumberIncrement>
+    <sheetUseViews>false</sheetUseViews>
+    <sheetAddReferences>true</sheetAddReferences>
+  </DirectoryConf>
+</ArrayOfDirectoryConf>

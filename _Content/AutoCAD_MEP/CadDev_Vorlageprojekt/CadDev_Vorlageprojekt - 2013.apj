@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project Name="CadDev_Vorlageprojekt - 2013" Number="0000" ProjectLocation="d:\daten-arbeit\eigene\_content\ame\caddev_vorlageprojekt - 2013\" Id="{FC54D307-6A5B-447F-B945-1B0722AFBCFD}" UseNumberPrefix="No" UseRelativePath="Yes" SyncSheetWithView="Yes">
+	<Version>75</Version>
+	<Description>Vorlageprojekt CAD-Development</Description>
+	<Templates>
+		<ViewTemplate Alternative="$(TemplatePath)Aecb Model (D A CH Ctb) mm.dwt">C:\ProgramData\Autodesk\MEP 2014\deu\Template\Aecb Model (D A CH Ctb) mm.dwt</ViewTemplate>
+		<SystemTemplate Alternative="$(TemplatePath)Aecb Model (D A CH Ctb) mm.dwt">C:\ProgramData\Autodesk\MEP 2014\deu\Template\Aecb Model (D A CH Ctb) mm.dwt</SystemTemplate>
+		<ElementTemplate Alternative="$(TemplatePath)Aecb Model (D A CH Ctb) mm.dwt">C:\ProgramData\Autodesk\MEP 2014\deu\Template\Aecb Model (D A CH Ctb) mm.dwt</ElementTemplate>
+		<DocumentTemplate Alternative="c:">c:</DocumentTemplate>
+		<SectionElevationViewTemplate Alternative="$(TemplatePath)Aecb Model (D A CH Ctb) mm.dwt">C:\ProgramData\Autodesk\MEP 2014\deu\Template\Aecb Model (D A CH Ctb) mm.dwt</SectionElevationViewTemplate>
+		<DetailViewTemplate Alternative="$(TemplatePath)Aecb Model (D A CH Ctb) mm.dwt">C:\ProgramData\Autodesk\MEP 2014\deu\Template\Aecb Model (D A CH Ctb) mm.dwt</DetailViewTemplate>
+		<ProjectSheetSetTemplate Alternative="C:\Dokumente und Einstellungen\All Users\Anwendungsdaten\Autodesk\ADT 2005\deu\Template\Aec Plansatz (D A CH Ctb).dst">C:\Dokumente und Einstellungen\All Users\Anwendungsdaten\Autodesk\ADT 2005\deu\Template\Aec Plansatz (D A CH Ctb).dst</ProjectSheetSetTemplate>
+		<ProjectDetailsTemplate Alternative="C:\Dokumente und Einstellungen\All Users\Anwendungsdaten\Autodesk\ADT 2005\deu\Template\Aec Project Details.apj">C:\Dokumente und Einstellungen\All Users\Anwendungsdaten\Autodesk\ADT 2005\deu\Template\Aec Project Details.apj</ProjectDetailsTemplate>
+	</Templates>
+	<FileLocations>
+		<ProjectImagePath>CadDev_Vorlageprojekt_Miniaturansicht.BMP</ProjectImagePath>
+		<ProjectBulletinBoardPath>CadDev_Vorlageprojekt_Titelseite.htm</ProjectBulletinBoardPath>
+		<PropertySetLocation></PropertySetLocation>
+		<PalettesLocation>Standards\palette\</PalettesLocation>
+		<ContentCatalog SharedWorkspaceCatalog="None" ContentRootPath="">
+			<ContentBrowserLibraryPath></ContentBrowserLibraryPath>
+		</ContentCatalog>
+		<ConstructLocation>Gebäudemodule\</ConstructLocation>
+		<ElementLocation>Elemente\</ElementLocation>
+		<ViewLocation>Ansichten\</ViewLocation>
+		<SheetLocation>Pläne\</SheetLocation>
+	</FileLocations>
+	<Standards>
+		<StandardsEnabled>No</StandardsEnabled>
+		<SyncOption>
+			<StandardsSyncMethod>Manual</StandardsSyncMethod>
+			<CreateLogFileOnSync>No</CreateLogFileOnSync>
+			<ShowIgnoredObjectsOnSync>Yes</ShowIgnoredObjectsOnSync>
+		</SyncOption>
+		<AECStandards>
+			<DisplaySettingsDrawing Alternative="$(TemplatePath)Aecb Model (D A CH Ctb) mm.dwt">C:\ProgramData\Autodesk\MEP 2014\deu\Template\Aecb Model (D A CH Ctb) mm.dwt</DisplaySettingsDrawing>
+			<File>
+				<Path Alternative="$(TemplatePath)Aecb Model (D A CH Ctb) mm.dwt">C:\ProgramData\Autodesk\MEP 2014\deu\Template\Aecb Model (D A CH Ctb) mm.dwt</Path>
+				<Objects>
+					<Object>AecDbDimensionStyle</Object>
+					<Object>AecDbPolygonStyle</Object>
+					<Object>AecDbDisplayThemeStyle</Object>
+					<Object>AecDbScheduleTableStyle</Object>
+					<Object>AecbDbDemandFactorStyle</Object>
+					<Object>AecbDbSupplyPipeTableDef</Object>
+					<Object>AecbDbSanitaryPipeTableDef</Object>
+					<Object>AecbDbDuctCustomFittingStyle</Object>
+					<Object>AecbDbPipeCustomFittingStyle</Object>
+					<Object>AecDbSpaceModifier</Object>
+					<Object>AecbDbLabelCurveStyle</Object>
+					<Object>AecDbRoofSlabEdgeStyle</Object>
+					<Object>AecDbRoofSlabStyle</Object>
+					<Object>AecDbSlabEdgeStyle</Object>
+					<Object>AecDbSlabStyle</Object>
+					<Object>AecDbScheduleDataFormat</Object>
+					<Object>AecDbPropertySetDef</Object>
+					<Object>AecbDbElecSystemDef</Object>
+					<Object>AecDbCurtainWallUnitStyle</Object>
+					<Object>AecDbCurtainWallLayoutStyle</Object>
+					<Object>AecDbWindowStyle</Object>
+					<Object>AbsToolsDbFabricationStyle</Object>
+					<Object>AecDbRailingStyle</Object>
+					<Object>AecbDbDeviceCategoryDef</Object>
+					<Object>AecbDbDeviceStyle</Object>
+					<Object>AbsToolsDbHangerStyle</Object>
+					<Object>AecbDbConduitPartCatPrefStyle</Object>
+					<Object>AecbDbConduitRiseDropStyle</Object>
+					<Object>AecbDbWireStyle</Object>
+					<Object>AecbDbCableTrayPartCatPrefStyle</Object>
+					<Object>AecbDbCableTrayRiseDropStyle</Object>
+					<Object>AecDbClassificationSystemDef</Object>
+					<Object>AecDbOpeningEndcapStyle</Object>
+					<Object>AecDbListDefinition</Object>
+					<Object>AecbDbDuctRiseDropStyle</Object>
+					<Object>AecbDbDuctSystemDef</Object>
+					<Object>AecbDbDuctPartCatPrefStyle</Object>
+					<Object>AecDbMaskBlockDef</Object>
+					<Object>AecDbMassElemStyle</Object>
+					<Object>AecDbMaterialDef</Object>
+					<Object>AecDbMvBlockDef</Object>
+					<Object>AecDbProfileDef</Object>
+					<Object>AecDbSpaceStyle</Object>
+					<Object>AecbDbPipeSingleLineGraphicsStyle</Object>
+					<Object>AecbDbPipeRiseDropStyle</Object>
+					<Object>AecbDbPipePartRoutingPreferencesStyle</Object>
+					<Object>AecbDbPipeSystemDef</Object>
+					<Object>AecbDbPlumbingRiseDropStyle</Object>
+					<Object>AecbDbSchematicPipeFittingCategoryDef</Object>
+					<Object>AecbDbSchematicPipeFittingStyle</Object>
+					<Object>AecbDbSchematicPipeStyle</Object>
+					<Object>AecbDbFixtureUnitTableDef</Object>
+					<Object>AecbDbPlumbingSystemDef</Object>
+					<Object>AecbDbPanelCategoryDef</Object>
+					<Object>AecbDbPanelStyle</Object>
+					<Object>AecbDbSchematicStyle</Object>
+					<Object>AecbDbSchematicSymbolCategoryDef</Object>
+					<Object>AecbDbSchematicSymbolStyle</Object>
+					<Object>AecbDbSchematicSystemDef</Object>
+					<Object>AecDb2dSectionStyle</Object>
+					<Object>AecDbStairWinderStyle</Object>
+					<Object>AecsDbMemberNodeShape</Object>
+					<Object>AecsDbMemberStyle</Object>
+					<Object>AecDbStairStyle</Object>
+					<Object>AecDbWindowAssemblyStyle</Object>
+					<Object>AecDbDoorStyle</Object>
+					<Object>AecbDbConnectorStyle</Object>
+					<Object>AecDbEndcapStyle</Object>
+					<Object>AecDbWallModStyle</Object>
+					<Object>AecDbWallStyle</Object>
+					<Object>AecDbCleanupGroupDef</Object>
+					<Object>AecDbZoneStyle</Object>
+					<Object>AecDbZoneDef</Object>
+					<Object>AecDbLayerKeyStyle</Object>
+				</Objects>
+			</File>
+		</AECStandards>
+		<ACADStandards/>
+	</Standards>
+	<DetailComponentDatabases UseOnlyProjectDatabases="No"/>
+	<KeynoteDatabases UseOnlyProjectDatabases="No"/>
+	<Level Id="9" Name="OG09" Description="Dachgeschoss" Elevation="27200" Height="3400" ScheduleId="OG09"/>
+	<Level Id="10" Name="OG08" Description="Obergeschoss 8" Elevation="23800" Height="3400" ScheduleId="OG08"/>
+	<Level Id="8" Name="OG07" Description="Obergeschoss 7" Elevation="20400" Height="3400" ScheduleId="OG07"/>
+	<Level Id="7" Name="OG06" Description="Obergeschoss 6" Elevation="17000" Height="3400" ScheduleId="OG06"/>
+	<Level Id="6" Name="OG05" Description="Obergeschoss 5" Elevation="13600" Height="3400" ScheduleId="OG05"/>
+	<Level Id="5" Name="OG04" Description="Obergeschoss 4" Elevation="10200" Height="3400" ScheduleId="OG04"/>
+	<Level Id="4" Name="OG03" Description="Obergeschoss 3" Elevation="6800" Height="3400" ScheduleId="OG03"/>
+	<Level Id="3" Name="OG02" Description="Obergeschoss 2" Elevation="3400" Height="3400" ScheduleId="OG02"/>
+	<Level Name="OG01" Description="Obergeschoss 1" Elevation="0" Height="3400" Id="2" ScheduleId="OG01"/>
+	<Level Name="EG00" Description="Erdgeschoss" Elevation="-3100" Height="3100" Id="1" ScheduleId="EG00"/>
+	<Division Name="Abbruch" Description="" Id="1" ScheduleId="AB"/>
+	<Division Id="2" Name="Neubau" Description="" ScheduleId="NB"/>
+	<Division Id="3" Name="Bestand" Description="" ScheduleId="BE"/>
+	<Details Name="Projektdaten">
+		<Entry Name="Projektadresse" Value="Teststrasse 37"/>
+		<Entry Name="Projektstartdatum" Value=""/>
+		<Entry Name="Projektbeendigungsdatum" Value=""/>
+		<Entry Name="Projekttelefonnummer" Value=""/>
+		<Entry Name="Hauptverantwortlicher des Projekts" Value=""/>
+		<Entry Name="Projekt-Manager" Value=""/>
+		<Entry Name="Projektarchitekt" Value="Architekturbüro Test"/>
+	</Details>
+	<Details Name="Vorgeschlagene Verbesserungen">
+		<Entry Name="Kosten" Value=""/>
+		<Entry Name="Konstruktionsart" Value=""/>
+		<Entry Name="Belegung" Value=""/>
+		<Entry Name="Gebäudebereich" Value=""/>
+		<Entry Name="mit Berieselungsanlage" Value=""/>
+		<Entry Name="Gebäudehöhe" Value=""/>
+		<Entry Name="Stockwerke" Value=""/>
+		<Entry Name="Zurücksetzen N" Value=""/>
+		<Entry Name="Zurücksetzen E" Value=""/>
+		<Entry Name="Zurücksetzen S" Value=""/>
+		<Entry Name="Zurücksetzen W" Value=""/>
+		<Entry Name="Deckung" Value=""/>
+		<Entry Name="Einteilen der Zonen" Value=""/>
+		<Entry Name="Feuerzone" Value=""/>
+		<Entry Name="Andere Agenturnormen oder Genehmigungen benötigt" Value=""/>
+	</Details>
+	<Details Name="Site für gesetzliche Beschreibung">
+		<Entry Name="Tat in Volumenseite aufgezeichnet bei" Value=""/>
+		<Entry Name="Übertragen an" Value=""/>
+		<Entry Name="Übertragungsdatum" Value=""/>
+		<Entry Name="Einschränkungen" Value=""/>
+		<Entry Name="Erleichterungen" Value=""/>
+		<Entry Name="Pacht" Value=""/>
+		<Entry Name="Plotabmessungen" Value=""/>
+		<Entry Name="Zugewandte" Value=""/>
+		<Entry Name="Wert" Value=""/>
+		<Entry Name="Verwendung des angrenzenden Grundstücks" Value=""/>
+	</Details>
+	<Details Name="Inhaberdaten">
+		<Entry Name="Besitzer" Value="Autodesk"/>
+		<Entry Name="Besitzeradresse" Value="Aidenbachstrasse 56"/>
+		<Entry Name="Besitzer Telefon" Value=""/>
+		<Entry Name="Besitzer Fax" Value=""/>
+		<Entry Name="Besitzer Mobiltelefon" Value=""/>
+		<Entry Name="Besitzer-Pager" Value=""/>
+		<Entry Name="Besitzer E-Mail-Adresse" Value=""/>
+		<Entry Name="Besitzer Hausanschrift" Value="81379 München"/>
+		<Entry Name="Besitzer Haustelefon" Value=""/>
+		<Entry Name="Projektnummer des Eigentümers" Value=""/>
+		<Entry Name="Repräsentant des Inhabers" Value=""/>
+		<Entry Name="Adresse des Inhaberrepräsentanten" Value=""/>
+		<Entry Name="Telefonnummer des Inhaberrepräsentanten" Value=""/>
+		<Entry Name="Faxnummer des Inhaberrepräsentanten" Value=""/>
+		<Entry Name="Handy-Nummer des Inhaberrepräsentanten" Value=""/>
+		<Entry Name="Pager-Nummer des Inhaberrepräsentanten" Value=""/>
+		<Entry Name="E-Mail-Adresse des Inhaberrepräsentanten" Value=""/>
+		<Entry Name="Anwalt" Value=""/>
+		<Entry Name="Anwaltsname" Value=""/>
+		<Entry Name="Anwalt Adresse" Value=""/>
+		<Entry Name="Anwalt Telefon" Value=""/>
+		<Entry Name="Anwalt Fax" Value=""/>
+		<Entry Name="Anwalt Mobiltelefon" Value=""/>
+		<Entry Name="Anwalt Pager" Value=""/>
+		<Entry Name="Anwalt E-Mail-Adresse" Value=""/>
+		<Entry Name="Versicherungsfachmann" Value=""/>
+		<Entry Name="Versicherungsfachmann Adresse" Value=""/>
+		<Entry Name="Versicherungsfachmann Telefon" Value=""/>
+		<Entry Name="Versicherungsfachmann Fax" Value=""/>
+		<Entry Name="Versicherungsfachmann Mobiltelephon" Value=""/>
+		<Entry Name="Versicherungsfachmann Pager" Value=""/>
+		<Entry Name="Versicherungsfachmann E-Mail-Adresse" Value=""/>
+	</Details>
+	<Details Name="Site-Informationsquellen">
+		<Entry Name="Faxnummer von Site-Info" Value=""/>
+		<Entry Name="Handy-Nummer von Site-Info" Value=""/>
+		<Entry Name="Pager-Nummer von Site-Info" Value=""/>
+		<Entry Name="E-Mail-Adresse von Site-Info" Value=""/>
+		<Entry Name="Gebäudeüberprüfung von" Value=""/>
+		<Entry Name="Datum Gebäudeüberprüfung" Value=""/>
+		<Entry Name="Topographische Überprüfung von" Value=""/>
+		<Entry Name="Datum der topographischen Überprüfung" Value=""/>
+		<Entry Name="Erdreichüberprüfung von" Value=""/>
+		<Entry Name="Datum der Erdreichüberprüfung" Value=""/>
+		<Entry Name="Landkarten" Value=""/>
+	</Details>
+	<Details Name="Öffentliche Dienste">
+		<Entry Name="Gasgesellschaft" Value=""/>
+		<Entry Name="Gasgesellschaft Adresse" Value=""/>
+		<Entry Name="Gasgesellschaft Kundendienst" Value=""/>
+		<Entry Name="Gasgesellschaft Telefon" Value=""/>
+		<Entry Name="Gasgesellschaft Fax" Value=""/>
+		<Entry Name="Gasgesellschaft Mobiltelefon" Value=""/>
+		<Entry Name="Gasgesellschaft Pager" Value=""/>
+		<Entry Name="Gasgesellschaft E-Mail-Adresse" Value=""/>
+		<Entry Name="Elektrizitätsgesellschaft" Value=""/>
+		<Entry Name="Elektrizitätsgesellschaft Adresse" Value=""/>
+		<Entry Name="Elektrizitätsgesellschaft Kundendienst" Value=""/>
+		<Entry Name="Elektrizitätsgesellschaft Telephon" Value=""/>
+		<Entry Name="Elektrizitätsgesellschaft Fax" Value=""/>
+		<Entry Name="Elektrizitätsgesellschaft Mobiltelephon" Value=""/>
+		<Entry Name="Elektrizitätsgesellschaft Pager" Value=""/>
+		<Entry Name="Elektrizitätsgesellschaft E-Mail-Adresse" Value=""/>
+		<Entry Name="Telefongesellschaft" Value=""/>
+		<Entry Name="Telefongesellschaft Adresse" Value=""/>
+		<Entry Name="Telefongesellschaft Kundendienst" Value=""/>
+		<Entry Name="Telefongesellschaft Telefon" Value=""/>
+		<Entry Name="Telefongesellschaft Fax" Value=""/>
+		<Entry Name="Telefongesellschaft Mobiltelefon" Value=""/>
+		<Entry Name="Telefongesellschaft Pager" Value=""/>
+		<Entry Name="Telefongesellschaft E-Mail-Adresse" Value=""/>
+		<Entry Name="Kanalisation" Value=""/>
+		<Entry Name="Kanalisation Adresse" Value=""/>
+		<Entry Name="Kanalisation Kundendienst" Value=""/>
+		<Entry Name="Kanalisation Telephon" Value=""/>
+		<Entry Name="Kanalisation Fax" Value=""/>
+		<Entry Name="Kanalisation Mobiltelefon" Value=""/>
+		<Entry Name="Kanalisation Pager" Value=""/>
+		<Entry Name="Kanalisation E-Mail-Adresse" Value=""/>
+		<Entry Name="Wasser" Value=""/>
+		<Entry Name="Wasser Adresse" Value=""/>
+		<Entry Name="Wasser Kundendienst" Value=""/>
+		<Entry Name="Wasser Telephon" Value=""/>
+		<Entry Name="Wasser Fax" Value=""/>
+		<Entry Name="Wasser Mobiltelephon" Value=""/>
+		<Entry Name="Wasser Pager" Value=""/>
+		<Entry Name="Wasser E-Mail-Adresse" Value=""/>
+	</Details>
+	<Details Name="Finanzdaten">
+		<Entry Name="Kreditsumme" Value=""/>
+		<Entry Name="Typ des Darlehens" Value=""/>
+		<Entry Name="Darlehenssatz" Value=""/>
+		<Entry Name="Darlehen von" Value=""/>
+		<Entry Name="Repräsentant des Darlehens" Value=""/>
+		<Entry Name="Telefonnummer des Darlehens" Value=""/>
+		<Entry Name="Anleihen" Value=""/>
+		<Entry Name="Summe bewilligen" Value=""/>
+		<Entry Name="Beschränkungen" Value=""/>
+		<Entry Name="Bewilligt von" Value=""/>
+		<Entry Name="Repräsentant der Bewilligung" Value=""/>
+		<Entry Name="Telefonnummer der Bewilligung" Value=""/>
+	</Details>
+	<Details Name="Bearbeitungsverfahren">
+		<Entry Name="Einzelne oder separate Verträge" Value=""/>
+		<Entry Name="Verhandeltes Angebot Vereinbarte Summe plus Gebühr" Value=""/>
+		<Entry Name="Geräte fest - Einrichtung verschiebbar" Value=""/>
+		<Entry Name="Lanschaftsplanung" Value=""/>
+	</Details>
+	<Details Name="SOLAR-COMPUTER-Projektdaten">
+		<Entry Name="BauteileAT" Value="&quot;AT01Drehflügel 1-flg.&quot;,&quot;AT02Durchgang&quot;,&quot;AT03Schiebeflügel - horizontal&quot;,&quot;AT04Standard&quot;,&quot;AT05Drehflügel 1-flg. - Stahlzarge&quot;,&quot;AT06Drehflügel 2-flg. - Glas&quot;"/>
+		<Entry Name="BauteileDA" Value="&quot;DA01Standard&quot;"/>
+		<Entry Name="Bauteile" Value="&quot;AT01Drehflügel 1-flg.&quot;, &quot;AT02Durchgang&quot;, &quot;AT03Schiebeflügel - horizontal&quot;, &quot;AT04Standard&quot;, &quot;DA01Standard&quot;, &quot;DE01Standard&quot;, &quot;AW01GK 12.5&quot;, &quot;AW02MW 11.5&quot;, &quot;AW03MW 30.0&quot;, &quot;AW04MW 30.0 WD 15.0&quot;, &quot;AW05Standard&quot;, &quot;AW06WC Trennwand 2.0&quot;, &quot;AF01Schiebeflügel 2-flg. - vertikal&quot;, &quot;AF02Standard&quot;, &quot;AT05Drehflügel 1-flg. - Stahlzarge&quot;, &quot;AT06Drehflügel 2-flg. - Glas&quot;, &quot;AW07MW 17.5&quot;, &quot;AW08STB 15.0&quot;"/>
+		<Entry Name="BauteileDE" Value="&quot;DE01Standard&quot;"/>
+		<Entry Name="BauteileAF" Value="&quot;AF01Schiebeflügel 2-flg. - vertikal&quot;,&quot;AF02Standard&quot;"/>
+		<Entry Name="BauteileAW" Value="&quot;AW01GK 12.5&quot;,&quot;AW02MW 11.5&quot;,&quot;AW03MW 30.0&quot;,&quot;AW04MW 30.0 WD 15.0&quot;,&quot;AW05Standard&quot;,&quot;AW06WC Trennwand 2.0&quot;,&quot;AW07MW 17.5&quot;,&quot;AW08STB 15.0&quot;"/>
+		<Entry Name="Ebenen" Value="&quot;00E1&quot;, &quot;-1E0&quot;"/>
+	</Details>
+</Project>
