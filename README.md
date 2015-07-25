@@ -1,2 +1,2 @@
-# BIMUpYourLife
+# ContentUpYourLife
 BIMUpYourLife content
