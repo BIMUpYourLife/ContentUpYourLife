@@ -1,0 +1,1057 @@
+# Revit Export Layers
+# Maps Categories and Subcategories to layer names and color numbers
+# Category <tab> Subcategory <tab> Layer name <tab> Color number <tab>
+# Cut layer name <tab> Cut color number
+# Do not remove the colon (:) after certain category names.
+# -----------------------------------------------------
+Abgebrochen		Nicht exportiert			
+Abhängigkeiten		Nicht exportiert			
+Air Terminals		Not Exported			
+Air Terminals	Symbol	Not Exported			
+Allgemeine Beschriftungen		Nicht exportiert			
+Allgemeine Modellbeschriftungen		Nicht exportiert			
+Allgemeines Modell		IfcBuildingElementProxy			
+Allgemeines Modell	Aussparungen	Nicht exportiert			
+Allgemeines Modell	Ifc-Elemente werden geöffnet.	IfcOpeningElement			
+Allgemeines Modell	Mittelachse				
+Allgemeines Modell	Nischen				
+Allgemeines Modell	Unsichtbare Linien	Nicht exportiert			
+Allgemeines Modell	Virtueller Schnittkörper				
+Anschluss		Nicht exportiert			
+Anschluss	Unsichtbare Linien	Nicht exportiert			
+Ansichten		Nicht exportiert			
+Ansichtstitel		Nicht exportiert			
+Areas		Not Exported			
+Areas	Color Fill	Not Exported			
+Areas	Interior Fill	Not Exported			
+Areas	Reference	Not Exported			
+Baugruppen		IfcElementAssembly			
+Bemaßungen		Nicht exportiert			
+Bemaßungen	Automatische Skizzenbemaßungen				
+Bepflanzung		IfcBuildingElementProxy			
+Bepflanzung	Unsichtbare Linien	Nicht exportiert			
+Bepflanzungsbeschriftungen		Nicht exportiert			
+Bewehrung - linear		IfcReinforcingBar			
+Bewehrung - linear	Verlegebereich	Nicht exportiert			
+Bewehrung - Matten		IfcReinforcementMesh			
+Bewehrung - Matten	Begrenzung	Nicht exportiert			
+Bewehrung - Matten	Mattenstab	Nicht exportiert			
+Bewehrung - Stabstahl		IfcReinforcingMesh			
+Bewehrung - Stabstahl	Unsichtbare Linien	Nicht exportiert			
+Bewehrung - Verlegebereich Fläche		IfcReinforcingBar			
+Bewehrung - Verlegebereich Fläche	Begrenzung	Nicht exportiert			
+Bewehrung - Verlegebereich Matten		IfcGroup			
+Bewehrung - Verlegebereich Matten	Begrenzung	Nicht exportiert			
+Bildausschnitte		Nicht exportiert			
+Brandmelder		IfcAlarmType			
+Cable Tray Fittings		Not Exported			
+Cable Tray Fittings	Center line	Not Exported			
+Cable Trays		IfcFlowSegment			
+Cable Trays	Center line	Not Exported			
+Cable Trays	Drop	Not Exported			
+Cable Trays	Rise	Not Exported			
+Casework		Not Exported			
+Casework	Hidden Lines	Not Exported			
+Ceilings		Not Exported			
+Ceilings	Common Edges	Not Exported			
+Ceilings	Cut Pattern	Not Exported			
+Ceilings	Finish 1 [4]	Not Exported			
+Ceilings	Finish 2 [5]	Not Exported			
+Ceilings	Hidden Lines	Not Exported			
+Ceilings	Membrane Layer	Not Exported			
+Ceilings	Structure [1]	Not Exported			
+Ceilings	Substrate [2]	Not Exported			
+Ceilings	Surface Pattern	Not Exported			
+Ceilings	Thermal/Air Layer [3]	Not Exported			
+Columns		Not Exported			
+Columns	Hidden Lines	Not Exported			
+Columns	Stahlbetonstütze	Not Exported			
+Communication Devices		Not Exported			
+Communication Devices	Sprechanlage	Not Exported			
+Conduit Fittings		Not Exported			
+Conduit Fittings	Center line	Not Exported			
+Conduits		Not Exported			
+Conduits	Center line	Not Exported			
+Conduits	Drop	Not Exported			
+Conduits	Rise	Not Exported			
+Curtain Panels		Not Exported			
+Curtain Panels	Glas	Not Exported			
+Curtain Panels	Hidden Lines	Not Exported			
+Curtain Systems		Not Exported			
+Curtain Systems	Curtain System Grids	Not Exported			
+Curtain Systems	Hidden Lines	Not Exported			
+Curtain Wall Mullions		Not Exported			
+Curtain Wall Mullions	Hidden Lines	Not Exported			
+Dachbeschriftungen		Nicht exportiert			
+Data Devices		Not Exported			
+Data Devices	gestrichelte Linie	Not Exported			
+Datengeräte		IfcElectricApplianceType			
+Datengeräte	gestrichelte Linie				
+Decken		IfcCovering			
+Decken	Dämmung/Luftschicht [3]	Nicht exportiert			
+Decken	Gemeinsame Kanten	Nicht exportiert			
+Decken	Nichttragende Schicht 1 [4]	Nicht exportiert			
+Decken	Nichttragende Schicht 2 [5]	Nicht exportiert			
+Decken	Oberflächenmuster	IfcCovering			
+Decken	Schnittmuster	Nicht exportiert			
+Decken	Sperrschicht	Nicht exportiert			
+Decken	Tragende Schicht [1]	Nicht exportiert			
+Decken	Träger [2]	Nicht exportiert			
+Decken	Unsichtbare Linien	Nicht exportiert			
+Deckenbeschriftungen		Nicht exportiert			
+Detail Items		Not Exported			
+Detail Items	Aussparung außerhalb Schnittebene	Not Exported			
+Detail Items	Aussparung außerhalb Schnittebene-Mittellinien	Not Exported			
+Detail Items	Aussparung innerhalb Schnittebene	Not Exported			
+Detail Items	Aussparung innerhalb Schnittebene-Mittellinien	Not Exported			
+Detail Items	Bandschutzsymbol	Not Exported			
+Detail Items	Hidden Lines	Not Exported			
+Detail Items	Mittelstarke Linien	Not Exported			
+Detail Items	Schwache Linien	Not Exported			
+Detail Items	Starke Linien	Not Exported			
+Detailausschnitte		Nicht exportiert			
+Detailelemente		IfcAnnotation			
+Detailelemente	Aussparung außerhalb Schnittebene				
+Detailelemente	Aussparung außerhalb Schnittebene-Mittellinien				
+Detailelemente	Aussparung innerhalb Schnittebene				
+Detailelemente	Aussparung innerhalb Schnittebene-Mittellinien				
+Detailelemente	Bandschutzsymbol				
+Detailelemente	Breite Linien				
+Detailelemente	Feine Linien				
+Detailelemente	Mittelstarke Linien	Nicht exportiert			
+Detailelemente	Schwache Linien	Nicht exportiert			
+Detailelemente	Starke Linien	Nicht exportiert			
+Detailelemente	Unsichtbare Linien	Nicht exportiert			
+Doors		Not Exported			
+Doors	Architrav	Not Exported			
+Doors	Beschläge	Not Exported			
+Doors	Frame/Mullion	Not Exported			
+Doors	Gesims/Architrav	Not Exported			
+Doors	Glass	Not Exported			
+Doors	Hidden Lines	Not Exported			
+Doors	Opening	Not Exported			
+Doors	Panel	Not Exported			
+Doors	Plan Schwenkung	Not Exported			
+Doors	Sturzlinien	Not Exported			
+Doors	Tragwerksöffnung	Not Exported			
+Doors	Türflügel	Not Exported			
+Doors	Türgriff	Not Exported			
+Doors	Türsymbol (Ansicht)	Not Exported			
+Doors	Türsymbol (Grundriss)	Not Exported			
+Doors	Türsymbol - Ansicht	Not Exported			
+Duct Accessories		Not Exported			
+Duct Accessories	Symbol	Not Exported			
+Duct Fittings		IfcFlowFitting			
+Duct Fittings	Center line	Not Exported			
+Duct Fittings	Profil	Not Exported			
+Duct Fittings	Symbol	Not Exported			
+Duct Insulations		Not Exported			
+Duct Linings		Not Exported			
+Duct Placeholders		Not Exported			
+Ducts		IfcFlowSegment			
+Ducts	Center line	Not Exported			
+Ducts	Drop	Not Exported			
+Ducts	Rise	Not Exported			
+Dächer		IfcRoof			
+Dächer	Dachuntersichten	IfcRoof			
+Dächer	Dämmung/Luftschicht [3]	Nicht exportiert			
+Dächer	Fassadendachraster	IfcRoof			
+Dächer	Gemeinsame Kanten	Nicht exportiert			
+Dächer	Innenkanten	Nicht exportiert			
+Dächer	Nichttragende Schicht 1 [4]	Nicht exportiert			
+Dächer	Nichttragende Schicht 2 [5]	Nicht exportiert			
+Dächer	Oberflächenmuster	IfcRoof			
+Dächer	Rinnen	IfcRoof			
+Dächer	Schnittmuster	Nicht exportiert			
+Dächer	Sperrschicht	Nicht exportiert			
+Dächer	Tragende Schicht [1]	Nicht exportiert			
+Dächer	Traufen	IfcRoof			
+Dächer	Träger [2]	Nicht exportiert			
+Dächer	Unsichtbare Linien	Nicht exportiert			
+Ebenen		IfcBuildingStorey			
+Eigenschaftsbeschriftungen		Nicht exportiert			
+Einzelfundament (analytisch) - Beschriftungen		Nicht exportiert			
+Einzelfundamente (analytisch)		Nicht exportiert			
+Electrical Equipment		Not Exported			
+Electrical Equipment	0	Not Exported			
+Electrical Equipment	Bettenschiene	Not Exported			
+Electrical Equipment	gestrichelte Linie	Not Exported			
+Electrical Equipment	Hidden Lines	Not Exported			
+Electrical Equipment	Potentialausgleich	Not Exported			
+Electrical Equipment	Verteilerschränke Starkstrom	Not Exported			
+Electrical Fixtures		Not Exported			
+Electrical Fixtures	ELT-Leuchten	Not Exported			
+Electrical Fixtures	ELT-Verteiler	Not Exported			
+Electrical Fixtures	Hidden Lines	Not Exported			
+Elektrische Ausstattung		IfcBuildingElementProxy			
+Elektrische Ausstattung	0				
+Elektrische Ausstattung	Bettenschiene				
+Elektrische Ausstattung	gestrichelte Linie				
+Elektrische Ausstattung	Potentialausgleich				
+Elektrische Ausstattung	Unsichtbare Linien	Nicht exportiert			
+Elektrische Ausstattung	Verteilerschränke Starkstrom				
+Elektrische Ausstattung - Beschriftungen		Nicht exportiert			
+Elektroinstallationen		IfcBuildingElementProxy			
+Elektroinstallationen	ELT-Leuchten				
+Elektroinstallationen	ELT-Verteiler				
+Elektroinstallationen	Unsichtbare Linien	Nicht exportiert			
+Elektroinstallationsbeschriftungen		Nicht exportiert			
+Entourage		Not Exported			
+Entourage	Hidden Lines	Not Exported			
+Fachwerkbinder		IfcAssembly			
+Fachwerkbinder	Einfügesymbole	Nicht exportiert			
+Fachwerkbinderbeschriftungen		Nicht exportiert			
+Farbenlegenden		Nicht exportiert			
+Fassadenelementbeschriftungen		Nicht exportiert			
+Fassadenelemente		IfcWindow			
+Fassadenelemente	Element				
+Fassadenelemente	Glas	Nicht exportiert			
+Fassadenelemente	Rahmen				
+Fassadenelemente	Türsymbol (Ansicht)				
+Fassadenelemente	Türsymbol (Grundriss)				
+Fassadenelemente	Unsichtbare Linien	Nicht exportiert			
+Fassadenpfosten		IfcCurtainWall			
+Fassadenpfosten	Unsichtbare Linien	Nicht exportiert			
+Fassadensysteme		IfcCurtainWall			
+Fassadensysteme	Fassadensystemraster	Nicht exportiert			
+Fassadensysteme	Unsichtbare Linien	Nicht exportiert			
+Fenster		IfcWindow			
+Fenster	Brüstung/Sturzhöhe	IfcWindow			
+Fenster	Fensterbank außen	Nicht exportiert			
+Fenster	Fensterbank innen	Nicht exportiert			
+Fenster	Fenstersymbol (Ansicht)				
+Fenster	Fenstersymbol (Grundriss)				
+Fenster	Flügel	Nicht exportiert			
+Fenster	Gesims				
+Fenster	Glas	IfcWindow			
+Fenster	Jalousie				
+Fenster	Lüftungsöffnung				
+Fenster	Plan Schwenkung				
+Fenster	Rahmen/Pfosten	IfcWindow			
+Fenster	Rolladen				
+Fenster	Sprossen				
+Fenster	Stutzen				
+Fenster	Türsymbol - Ansicht				
+Fenster	Unsichtbare Linien	Nicht exportiert			
+Fenster	Verkleidung				
+Fenster	Öffnung	IfcWindow			
+Fenster	Öffnungsrichtung (Ansicht)	Nicht exportiert			
+Fenster	Öffnungsrichtung (Draufsicht)	Nicht exportiert			
+Fensterbeschriftungen		Nicht exportiert			
+Fire Alarm Devices		Not Exported			
+Flex Ducts		Not Exported			
+Flex Ducts	Center line	Not Exported			
+Flex Ducts	Pattern	Not Exported			
+Flex Pipes		Not Exported			
+Flex Pipes	Center Line	Not Exported			
+Flex Pipes	Pattern	Not Exported			
+Flexible Rohre		IfcPipeSegment			
+Flexible Rohre	Achse	Nicht exportiert			
+Flexible Rohre	Muster	Nicht exportiert			
+Flexkanäle		IfcDuctSegment			
+Flexkanäle	Achse	Nicht exportiert			
+Flexkanäle	Muster	Nicht exportiert			
+Floors		Not Exported			
+Floors	Common Edges	Not Exported			
+Floors	Cut Pattern	Not Exported			
+Floors	Finish 1 [4]	Not Exported			
+Floors	Finish 2 [5]	Not Exported			
+Floors	Hidden Lines	Not Exported			
+Floors	Interior Edges	Not Exported			
+Floors	Membrane Layer	Not Exported			
+Floors	Slab Edges	Not Exported			
+Floors	Structure [1]	Not Exported			
+Floors	Substrate [2]	Not Exported			
+Floors	Surface Pattern	Not Exported			
+Floors	Thermal/Air Layer [3]	Not Exported			
+Flächen		IfcSpace			
+Flächen	Farbfüllung	Nicht exportiert			
+Flächen	Innenfüllung	Nicht exportiert			
+Flächen	Referenz	Nicht exportiert			
+Flächen-Polylinien		Nicht exportiert			
+Flächenbeschriftungen		Nicht exportiert			
+Fundamentbeschriftungen		Nicht exportiert			
+Fundamente		IfcFooting			
+Fundamente	Unsichtbare Linien	Nicht exportiert			
+Fundamentplatten (analytisch)		Nicht exportiert			
+Furniture		Not Exported			
+Furniture	Hidden Lines	Not Exported			
+Furniture	Linien verdeckt	Not Exported			
+Furniture	Overhead Lines	Not Exported			
+Furniture	Overhead-Linien	Not Exported			
+Furniture	Unsichtbare Linien	Not Exported			
+Furniture	Verdeckte Linien	Not Exported			
+Furniture Systems		Not Exported			
+Furniture Systems	Hidden Lines	Not Exported			
+Gefüllter Bereich		IfcAnnotation			
+Geländer		IfcRailing			
+Geländer	<Oberhalb > Handläufe	Nicht exportiert			
+Geländer	<Oberhalb > Obere Holme	Nicht exportiert			
+Geländer	<Oberhalb> Geländerschnittlinie	IfcRailing			
+Geländer	Endpfosten	Nicht exportiert			
+Geländer	Geländer	IfcRailing			
+Geländer	Handläufe	Nicht exportiert			
+Geländer	Obere Holme	Nicht exportiert			
+Geländer	Stützen	Nicht exportiert			
+Geländer	Unsichtbare Linien	Nicht exportiert			
+Geländer	Vertikale Holme	IfcRailing			
+Geländerholmbeschriftungen		Nicht exportiert			
+Generic Models		Not Exported			
+Generic Models	Aussparungen	Not Exported			
+Generic Models	Hidden Lines	Not Exported			
+Generic Models	Mittelachse	Not Exported			
+Generic Models	Virtueller Schnittkörper	Not Exported			
+Geschossdecke (analytisch) - Beschriftungen		Nicht exportiert			
+Geschossdecken		IfcSlab			
+Geschossdecken	Deckenkanten	IfcBuildingElementProxy			
+Geschossdecken	Dämmung/Luftschicht [3]	Nicht exportiert			
+Geschossdecken	Gemeinsame Kanten	Nicht exportiert			
+Geschossdecken	Innenkanten	Nicht exportiert			
+Geschossdecken	Nichttragende Schicht 1 [4]	Nicht exportiert			
+Geschossdecken	Nichttragende Schicht 2 [5]	Nicht exportiert			
+Geschossdecken	Oberflächenmuster	IfcSlab			
+Geschossdecken	Schnittmuster	Nicht exportiert			
+Geschossdecken	Sperrschicht	Nicht exportiert			
+Geschossdecken	Tragende Schicht [1]	Nicht exportiert			
+Geschossdecken	Träger [2]	Nicht exportiert			
+Geschossdecken	Unsichtbare Linien	Nicht exportiert			
+Geschossdecken (analytisch)		Nicht exportiert			
+Grafiken für Verteiler-Bauteilliste		Nicht exportiert			
+Grafikliste		Nicht exportiert			
+Grundstück		IfcSite			
+Grundstück	Gebäude	IfcBuildingElementProxy			
+Grundstück	Grundstücksgrenzen	Nicht exportiert			
+Grundstück	Projekt-Basispunkt	Nicht exportiert			
+Grundstück	Querformat				
+Grundstück	Sohlen	IfcSlab			
+Grundstück	Streifen				
+Grundstück	Unsichtbare Linien	Nicht exportiert			
+Grundstück	Vermessungspunkt	Nicht exportiert			
+Grundstück	Versorgungseinrichtungen				
+Grundstücksbeschriftungen		Nicht exportiert			
+Grundstücksgrenzensegmente - Beschriftungen		Nicht exportiert			
+Hilfslinienraster		Nicht exportiert			
+HLS-Bauteile		IfcBuildingElementProxy			
+HLS-Bauteile	Anschlüsse				
+HLS-Bauteile	Symbol				
+HLS-Bauteile	Unsichtbare Linien	Nicht exportiert			
+HLS-Bauteile - Beschriftungen		Nicht exportiert			
+HVAC Zones		Not Exported			
+HVAC Zones	Boundary	Not Exported			
+HVAC Zones	Color Fill	Not Exported			
+HVAC Zones	Interior Fill	Not Exported			
+HVAC Zones	Reference Lines	Not Exported			
+Höhenkoordinaten		Nicht exportiert			
+Höhenkoten		Nicht exportiert			
+Höhenlinienbeschriftungen		Nicht exportiert			
+Importiert in Familien		IfcBuildingElementProxy			
+Imports in Families		Not Exported			
+Kabel		Nicht exportiert			
+Kabel	Kabelmarkierungen	Nicht exportiert			
+Kabel	Rückführungspfeile	Nicht exportiert			
+Kabeltrassen		IfcFlowSegment			
+Kabeltrassen	Achse	IfcFlowSegment			
+Kabeltrassen	Anstieg	Nicht exportiert			
+Kabeltrassen	Gefälle	Nicht exportiert			
+Kabeltrassenformteile		IFCCableCarrierFittingType			
+Kabeltrassenformteile	Mittellinie	Nicht exportiert			
+Kommunikationsgeräte		IfcBuildingElementProxy			
+Kommunikationsgeräte	Sprechanlage				
+Körper		Nicht exportiert			
+Körper	Form	Nicht exportiert			
+Körper	Knoten	Nicht exportiert			
+Körper	Körper - Außenwand	Nicht exportiert			
+Körper	Körper - Dach	Nicht exportiert			
+Körper	Körper - Innenwand	Nicht exportiert			
+Körper	Körper - Oberlicht	Nicht exportiert			
+Körper	Körper - Schatten	Nicht exportiert			
+Körper	Körper - Verglasung	Nicht exportiert			
+Körper	Körper - Öffnung	Nicht exportiert			
+Körper	Körpergeschoss	Nicht exportiert			
+Körper	Körpermodellzone	Nicht exportiert			
+Körper	Musterfüllung	Nicht exportiert			
+Körper	Musterlinien	Nicht exportiert			
+Körper	Rasterlinien	Nicht exportiert			
+Körper	Unsichtbare Linien	Nicht exportiert			
+Körpermodell		IfcBuildingElementProxy			
+Leerrohr		IFCCableCarrierSegment			
+Leerrohr	Achse	Nicht exportiert			
+Leerrohr	Anstieg	Nicht exportiert			
+Leerrohr	Gefälle	Nicht exportiert			
+Leerrohrformteile		IFCCableCarrierFitting			
+Leerrohrformteile	Achse	Nicht exportiert			
+Leuchten		IfcLightFixtureType			
+Leuchten	Lichtquelle	Nicht exportiert			
+Leuchten	Unsichtbare Linien	Nicht exportiert			
+Leuchtenbeschriftungen		Nicht exportiert			
+Lichtschalter		IfcBuildingElementProxy			
+Lichtschalter	ELT-Schalter_Taster				
+Lighting Devices		Not Exported			
+Lighting Devices	ELT-Schalter_Taster	Not Exported			
+Lighting Fixtures		Not Exported			
+Lighting Fixtures	Hidden Lines	Not Exported			
+Lighting Fixtures	Light Source	Not Exported			
+Lines		Not Exported			
+Lines	<Area Boundary>	Not Exported			
+Lines	<Beyond>	Not Exported			
+Lines	<Centerline>	Not Exported			
+Lines	<Demolished>	Not Exported			
+Lines	<Fabric Envelope>	Not Exported			
+Lines	<Fabric Sheets>	Not Exported			
+Lines	<Hidden>	Not Exported			
+Lines	<Overhead>	Not Exported			
+Lines	<Room Separation>	Not Exported			
+Lines	<Sketch>	Not Exported			
+Lines	<Space Separation>	Not Exported			
+Lines	_Bemassungshilfslinien	Not Exported			
+Lines	_Hilfslinie	Not Exported			
+Lines	Axis of Rotation	Not Exported			
+Lines	Bestand	Not Exported			
+Lines	BLZ_Fangleitung	Not Exported			
+Lines	BLZ_Potential-Ausgleichsleiter	Not Exported			
+Lines	BLZ_Potential-Maschengitter	Not Exported			
+Lines	BLZ_Ringerder	Not Exported			
+Lines	Brandschutzgrenze	Not Exported			
+Lines	BRS_Feuerlösch_nass	Not Exported			
+Lines	BRS_Feuerlösch_trocken	Not Exported			
+Lines	BRS_Sprinkler_nass	Not Exported			
+Lines	BRS_Sprinkler_trocken	Not Exported			
+Lines	ELT_Bettenschiene	Not Exported			
+Lines	ELT_Brüstungskanal	Not Exported			
+Lines	ELT_Erschliessungskanal_EK	Not Exported			
+Lines	ELT_F30_Kanal	Not Exported			
+Lines	ELT_Kabelschutzrohre	Not Exported			
+Lines	ELT_Kabeltrasse_AV	Not Exported			
+Lines	ELT_Kabeltrasse_FM	Not Exported			
+Lines	ELT_Kabeltrasse_MSR	Not Exported			
+Lines	ELT_Kabeltrasse_SV	Not Exported			
+Lines	ELT_Unterflurkanal	Not Exported			
+Lines	FM_BMA-Rauchansaugrohr	Not Exported			
+Lines	FM_BMA-WLD	Not Exported			
+Lines	Hidden Lines	Not Exported			
+Lines	HZG_Hochdruckdampf	Not Exported			
+Lines	HZG_Hochdruckkondensat	Not Exported			
+Lines	HZG_Rücklauf_dyn	Not Exported			
+Lines	HZG_Rücklauf_Fb	Not Exported			
+Lines	HZG_Rücklauf_stat	Not Exported			
+Lines	HZG_Vorlauf_dyn	Not Exported			
+Lines	HZG_Vorlauf_Fb	Not Exported			
+Lines	HZG_Vorlauf_stat	Not Exported			
+Lines	Insulation Batting Lines	Not Exported			
+Lines	KAE_Rücklauf	Not Exported			
+Lines	KAE_Vorlauf	Not Exported			
+Lines	Lines	Not Exported			
+Lines	MDG_Air-Motor-Abluft	Not Exported			
+Lines	MDG_Druckluft 5bar	Not Exported			
+Lines	MDG_Druckluft 10bar	Not Exported			
+Lines	MDG_Kohlendioxid	Not Exported			
+Lines	MDG_Lachgas	Not Exported			
+Lines	MDG_Narkosegasableitung	Not Exported			
+Lines	MDG_Sauerstoff	Not Exported			
+Lines	MDG_Technisch Druckluft 10bar	Not Exported			
+Lines	MDG_Vakuum	Not Exported			
+Lines	Mechanik verdeckt	Not Exported			
+Lines	Medium Lines	Not Exported			
+Lines	MEP Verdeckt	Not Exported			
+Lines	MuM_Fensterrahmen	Not Exported			
+Lines	MuM_Fenstersprosse	Not Exported			
+Lines	MuM_Füllmuster	Not Exported			
+Lines	MuM_Profileinfügepunkt	Not Exported			
+Lines	MuM_Raumreihenfolge	Not Exported			
+Lines	MuM_Raumreihenfolge_Start	Not Exported			
+Lines	MuM_Türrahmen	Not Exported			
+Lines	RLT_Abluft	Not Exported			
+Lines	RLT_Außenluft	Not Exported			
+Lines	RLT_Entrauchung	Not Exported			
+Lines	RLT_Fortluft	Not Exported			
+Lines	RLT_Küchenabluft	Not Exported			
+Lines	RLT_Mischluft	Not Exported			
+Lines	RLT_Prozeßfortluft	Not Exported			
+Lines	RLT_Umluft	Not Exported			
+Lines	RLT_Zuluft	Not Exported			
+Lines	SAN_Erdgas	Not Exported			
+Lines	SAN_Gas_Belüftung	Not Exported			
+Lines	SAN_Kaltwasser	Not Exported			
+Lines	SAN_Kaltwasser_druck1	Not Exported			
+Lines	SAN_Kaltwasser_vollentsalzt	Not Exported			
+Lines	SAN_Kondensat	Not Exported			
+Lines	SAN_Messwasser	Not Exported			
+Lines	SAN_Regenwasser	Not Exported			
+Lines	SAN_Regenwasser_Druckleitung	Not Exported			
+Lines	SAN_Regenwasser_Grundleitung	Not Exported			
+Lines	SAN_Reinwasser	Not Exported			
+Lines	SAN_Schmutzwasser	Not Exported			
+Lines	SAN_Schmutzwasser_Druckleitung	Not Exported			
+Lines	SAN_Schmutzwasser_Fett	Not Exported			
+Lines	SAN_Schmutzwasser_Grundleitung	Not Exported			
+Lines	SAN_Schwallwasser	Not Exported			
+Lines	SAN_Ventilation	Not Exported			
+Lines	SAN_Warmwasser	Not Exported			
+Lines	SAN_Zirkulation	Not Exported			
+Lines	SUD_ELT	Not Exported			
+Lines	SUD_GEM	Not Exported			
+Lines	SUD_HZG	Not Exported			
+Lines	SUD_KAE	Not Exported			
+Lines	SUD_MEG	Not Exported			
+Lines	SUD_RLT	Not Exported			
+Lines	SUD_SAN	Not Exported			
+Lines	Thin Lines	Not Exported			
+Lines	Wide Lines	Not Exported			
+Linien		IfcAnnotation			
+Linien	<Abgebrochen>	IfcAnnotation			
+Linien	<Achse>	Nicht exportiert			
+Linien	<Außerhalb des Bereichs>	IfcAnnotation			
+Linien	<Einzelmatten>	Nicht exportiert			
+Linien	<Flächenbegrenzung>	IfcAnnotation			
+Linien	<Mattenfeld>	Nicht exportiert			
+Linien	<Oberhalb>	IfcAnnotation			
+Linien	<Raumtrennung>	IfcAnnotation			
+Linien	<Skizze>	Nicht exportiert			
+Linien	<Treppen-/Rampenskizze: Begrenzung>				
+Linien	<Treppen-/Rampenskizze: Lauf>				
+Linien	<Treppen-/Rampenskizze: Podestmittelpunkt>				
+Linien	<Treppen-/Rampenskizze: Steigung>				
+Linien	<Verdeckt>	IfcAnnotation			
+Linien	<Änderungswolke>	IfcAnnotation			
+Linien	_Bemassungshilfslinien				
+Linien	_Hilfslinie				
+Linien	Baugrenze				
+Linien	Baulinie				
+Linien	Bestand				
+Linien	BLZ_Fangleitung				
+Linien	BLZ_Potential-Ausgleichsleiter				
+Linien	BLZ_Potential-Maschengitter				
+Linien	BLZ_Ringerder				
+Linien	Brandschutzgrenze				
+Linien	Breite Linien	IfcAnnotation			
+Linien	BRS_Feuerlösch_nass				
+Linien	BRS_Feuerlösch_trocken				
+Linien	BRS_Sprinkler_nass				
+Linien	BRS_Sprinkler_trocken				
+Linien	Drehachse	Nicht exportiert			
+Linien	Dämmungsmateriallinien	IfcAnnotation			
+Linien	Dünne Linien blau				
+Linien	Dünne Linien dunkelgrau				
+Linien	Dünne Linien grün				
+Linien	Dünne Linien hellgrau				
+Linien	Dünne Linien mittelgrau				
+Linien	Dünne Linien orange				
+Linien	Dünne Linien rot				
+Linien	ELT_Bettenschiene				
+Linien	ELT_Brüstungskanal				
+Linien	ELT_Erschliessungskanal_EK				
+Linien	ELT_F30_Kanal				
+Linien	ELT_Kabelschutzrohre				
+Linien	ELT_Kabeltrasse_AV				
+Linien	ELT_Kabeltrasse_FM				
+Linien	ELT_Kabeltrasse_MSR				
+Linien	ELT_Kabeltrasse_SV				
+Linien	ELT_Unterflurkanal				
+Linien	Feine Linien	IfcAnnotation			
+Linien	FM_BMA-Rauchansaugrohr				
+Linien	FM_BMA-WLD				
+Linien	HZG_Hochdruckdampf				
+Linien	HZG_Hochdruckkondensat				
+Linien	HZG_Rücklauf_dyn				
+Linien	HZG_Rücklauf_Fb				
+Linien	HZG_Rücklauf_stat				
+Linien	HZG_Vorlauf_dyn				
+Linien	HZG_Vorlauf_Fb				
+Linien	HZG_Vorlauf_stat				
+Linien	KAE_Rücklauf				
+Linien	KAE_Vorlauf				
+Linien	Linien	IfcAnnotation			
+Linien	MDG_Air-Motor-Abluft				
+Linien	MDG_Druckluft 5bar				
+Linien	MDG_Druckluft 10bar				
+Linien	MDG_Kohlendioxid				
+Linien	MDG_Lachgas				
+Linien	MDG_Narkosegasableitung				
+Linien	MDG_Sauerstoff				
+Linien	MDG_Technisch Druckluft 10bar				
+Linien	MDG_Vakuum				
+Linien	Mechanik verdeckt				
+Linien	MEP Verdeckt				
+Linien	Mittelstarke Linien	IfcAnnotation			
+Linien	MuM_Fensterrahmen				
+Linien	MuM_Fenstersprosse				
+Linien	MuM_Füllmuster				
+Linien	MuM_Profileinfügepunkt				
+Linien	MuM_Raumreihenfolge				
+Linien	MuM_Raumreihenfolge_Start				
+Linien	MuM_Türrahmen				
+Linien	RLT_Abluft				
+Linien	RLT_Außenluft				
+Linien	RLT_Entrauchung				
+Linien	RLT_Fortluft				
+Linien	RLT_Küchenabluft				
+Linien	RLT_Mischluft				
+Linien	RLT_Prozeßfortluft				
+Linien	RLT_Umluft				
+Linien	RLT_Zuluft				
+Linien	SAN_Erdgas				
+Linien	SAN_Gas_Belüftung				
+Linien	SAN_Kaltwasser				
+Linien	SAN_Kaltwasser_druck1				
+Linien	SAN_Kaltwasser_vollentsalzt				
+Linien	SAN_Kondensat				
+Linien	SAN_Messwasser				
+Linien	SAN_Regenwasser				
+Linien	SAN_Regenwasser_Druckleitung				
+Linien	SAN_Regenwasser_Grundleitung				
+Linien	SAN_Reinwasser				
+Linien	SAN_Schmutzwasser				
+Linien	SAN_Schmutzwasser_Druckleitung				
+Linien	SAN_Schmutzwasser_Fett				
+Linien	SAN_Schmutzwasser_Grundleitung				
+Linien	SAN_Schwallwasser				
+Linien	SAN_Ventilation				
+Linien	SAN_Warmwasser				
+Linien	SAN_Zirkulation				
+Linien	SUD_ELT				
+Linien	SUD_GEM				
+Linien	SUD_HZG				
+Linien	SUD_KAE				
+Linien	SUD_MEG				
+Linien	SUD_RLT				
+Linien	SUD_SAN				
+Linien	Unsichtbare Linien	Nicht exportiert			
+Linien	Unterhalb				
+Linien	Verdeckte Linien rot				
+Linien	Über Schnittebene 1				
+Linien	Über Schnittebene 2				
+Luftdurchlässe		IfcFlowTerminal			
+Luftdurchlässe	Symbol				
+Luftkanaldämmung außen		IfcCovering			
+Luftkanaldämmung innen		IfcCovering			
+Luftkanalformteile		IfcFlowFitting			
+Luftkanalformteile	Achse	IfcFlowFitting			
+Luftkanalformteile	Profil				
+Luftkanalformteile	Symbol				
+Luftkanalplatzhalter		IfcDuctSegment			
+Luftkanalzubehör		IfcBuildingElementProxy			
+Luftkanalzubehör	Symbol				
+Luftkanäle		IfcFlowSegment			
+Luftkanäle	Achse	Nicht exportiert			
+Luftkanäle	Anstieg	Nicht exportiert			
+Luftkanäle	Gefälle	Nicht exportiert			
+Mass		Not Exported			
+Mass	Form	Not Exported			
+Mass	Gridlines	Not Exported			
+Mass	Hidden Lines	Not Exported			
+Mass	Mass Exterior Wall	Not Exported			
+Mass	Mass Floor	Not Exported			
+Mass	Mass Glazing	Not Exported			
+Mass	Mass Interior Wall	Not Exported			
+Mass	Mass Opening	Not Exported			
+Mass	Mass Roof	Not Exported			
+Mass	Mass Shade	Not Exported			
+Mass	Mass Skylight	Not Exported			
+Mass	Mass Zone	Not Exported			
+Mass	Nodes	Not Exported			
+Mass	Pattern Fill	Not Exported			
+Mass	Pattern Lines	Not Exported			
+Mechanical Equipment		Not Exported			
+Mechanical Equipment	Anschlüsse	Not Exported			
+Mechanical Equipment	Hidden Lines	Not Exported			
+Mechanical Equipment	Symbol	Not Exported			
+Mehrere Kategorien - Beschriftungen		Nicht exportiert			
+MEP-Räume		IfcSpace			
+MEP-Räume	Farbfüllung	Nicht exportiert			
+MEP-Räume	Innen	Nicht exportiert			
+MEP-Räume	Referenz	Nicht exportiert			
+Möbel		IfcFurniture			
+Möbel	Hidden Lines				
+Möbel	Linien verdeckt				
+Möbel	Overhead Lines				
+Möbel	Overhead-Linien	Nicht exportiert			
+Möbel	Unsichtbare Linien	Nicht exportiert			
+Möbel	Verdeckte Linien				
+Möbelsysteme		IfcSystemFurnitureElement			
+Möbelsysteme	Unsichtbare Linien	Nicht exportiert			
+Neigungskoten		Nicht exportiert			
+Neu		Nicht exportiert			
+Notizen		IfcAnnotation			
+Notrufgeräte		IfcSwitchingDeviceType			
+Notrufgeräte	Fm_PatRufAnlage				
+Notrufgeräte	Patientennotruf				
+Nurse Call Devices		Not Exported			
+Nurse Call Devices	Fm_PatRufAnlage	Not Exported			
+Nurse Call Devices	Patientennotruf	Not Exported			
+Parking		Not Exported			
+Parking	Hidden Lines	Not Exported			
+Parking	Parkplatzlayout	Not Exported			
+Parking	Referenzlinie	Not Exported			
+Parking	Streifen	Not Exported			
+Parkplatz		IfcBuildingElementProxy			
+Parkplatz	Parkplatzlayout				
+Parkplatz	Referenzlinie				
+Parkplatz	Streifen				
+Parkplatz	Unsichtbare Linien	Nicht exportiert			
+Parkplatzbeschriftungen		Nicht exportiert			
+Parts		Not Exported			
+Parts	Hidden Lines	Not Exported			
+Pipe Accessories		Not Exported			
+Pipe Accessories	gestrichelt	Not Exported			
+Pipe Accessories	Symbol	Not Exported			
+Pipe Fittings		Not Exported			
+Pipe Fittings	Center line	Not Exported			
+Pipe Fittings	Symbol	Not Exported			
+Pipe Insulations		Not Exported			
+Pipe Placeholders		Not Exported			
+Pipes		Not Exported			
+Pipes	Center Line	Not Exported			
+Pipes	Drop	Not Exported			
+Pipes	Rise	Not Exported			
+Planbereich		Nicht exportiert			
+Planköpfe		Nicht exportiert			
+Planköpfe	Breite Linien				
+Planköpfe	Feine Linien				
+Planköpfe	Mittelstarke Linien				
+Planting		Not Exported			
+Planting	Hidden Lines	Not Exported			
+Plattenfundament (analytisch) - Beschriftungen		Nicht exportiert			
+Plumbing Fixtures		Not Exported			
+Plumbing Fixtures	Hidden Lines	Not Exported			
+Plumbing Fixtures	Symbol	Not Exported			
+Point Clouds		Not Exported			
+Punktwolken		Nicht exportiert			
+Railings		Not Exported			
+Railings	<Above> Handrails	Not Exported			
+Railings	<Above> Railings Cut Line	Not Exported			
+Railings	<Above> Top Rails	Not Exported			
+Railings	Balusters	Not Exported			
+Railings	Handrails	Not Exported			
+Railings	Hidden Lines	Not Exported			
+Railings	Rails	Not Exported			
+Railings	Supports	Not Exported			
+Railings	Terminations	Not Exported			
+Railings	Top Rails	Not Exported			
+Rampen		IfcRamp			
+Rampen	Pfeil nach oben	IfcRamp			
+Rampen	Pfeil nach unten	IfcRamp			
+Rampen	Rampen hinter Schnittlinie	IfcRamp			
+Rampen	Text AB	IfcRamp			
+Rampen	Text AUF	IfcRamp			
+Rampen	Unsichtbare Linien	Nicht exportiert			
+Rampen	Unvollständige Rampen	IfcRamp			
+Rampen	Wangen	IfcRamp			
+Rampen	Wangen hinter Schnittverlauf	IfcRamp			
+Ramps		Not Exported			
+Ramps	Down Arrow	Not Exported			
+Ramps	DOWN text	Not Exported			
+Ramps	Hidden Lines	Not Exported			
+Ramps	Ramps Beyond Cut Line	Not Exported			
+Ramps	Stringers	Not Exported			
+Ramps	Stringers Beyond Cut Line	Not Exported			
+Ramps	Up Arrow	Not Exported			
+Ramps	UP text	Not Exported			
+Raster		Nicht exportiert			
+Raster Images		Not Exported			
+Rasterbilder		Nicht exportiert			
+Raumbeschriftungen		Nicht exportiert			
+Raumpolylinien		Nicht exportiert			
+Referenzebenen		Nicht exportiert			
+Regelfassade		IfcCurtainWall			
+Roads		Not Exported			
+Roads	Hidden Lines	Not Exported			
+Rohrdämmung		IfcCovering			
+Rohre		IfcFlowSegment			
+Rohre	Achse	IfcFlowSegment			
+Rohre	Anstieg	IfcFlowSegment			
+Rohre	Gefälle	IfcFlowSegment			
+Rohrformteile		IfcFlowFitting			
+Rohrformteile	Achse	IfcFlowFitting			
+Rohrformteile	Symbol				
+Rohrplatzhalter		IfcFlowSegment			
+Rohrzubehör		IfcValveType			
+Rohrzubehör	gestrichelt				
+Rohrzubehör	Symbol				
+Roofs		Not Exported			
+Roofs	Common Edges	Not Exported			
+Roofs	Curtain Roof Grids	Not Exported			
+Roofs	Cut Pattern	Not Exported			
+Roofs	Fascias	Not Exported			
+Roofs	Finish 1 [4]	Not Exported			
+Roofs	Finish 2 [5]	Not Exported			
+Roofs	Gutters	Not Exported			
+Roofs	Hidden Lines	Not Exported			
+Roofs	Interior Edges	Not Exported			
+Roofs	Membrane Layer	Not Exported			
+Roofs	Roof Soffits	Not Exported			
+Roofs	Structure [1]	Not Exported			
+Roofs	Substrate [2]	Not Exported			
+Roofs	Surface Pattern	Not Exported			
+Roofs	Thermal/Air Layer [3]	Not Exported			
+Rooms		Not Exported			
+Rooms	Color Fill	Not Exported			
+Rooms	Interior Fill	Not Exported			
+Rooms	Reference	Not Exported			
+Räume		IfcSpace			
+Räume	Farbfüllung	Nicht exportiert			
+Räume	Innenfüllung	Nicht exportiert			
+Räume	Referenz	Nicht exportiert			
+Sanitärinstallationen		IfcFlowTerminal			
+Sanitärinstallationen	Symbol				
+Sanitärinstallationen	Unsichtbare Linien	Nicht exportiert			
+Sanitärinstallationsbeschriftungen		Nicht exportiert			
+Schachtöffnungen		Nicht exportiert			
+Schachtöffnungen	Unsichtbare Linien	Nicht exportiert			
+Schnitte		Nicht exportiert			
+Schreinerarbeiten		IfcFurniture			
+Schreinerarbeiten	Unsichtbare Linien	Nicht exportiert			
+Schreinerarbeiten - Beschriftungen		Nicht exportiert			
+Security Devices		Not Exported			
+Shaft Openings		Not Exported			
+Shaft Openings	Hidden Lines	Not Exported			
+Sicherheitsgeräte		IfcBuildingElementProxy			
+Site		Not Exported			
+Site	Hidden Lines	Not Exported			
+Site	Pads	Not Exported			
+Site	Project Base Point	Not Exported			
+Site	Property Lines	Not Exported			
+Site	Querformat	Not Exported			
+Site	Streifen	Not Exported			
+Site	Survey Point	Not Exported			
+Site	Versorgungseinrichtungen	Not Exported			
+Skelettbau		IfcBuildingElementProxy			
+Skelettbau	Aussteifungselement	Nicht exportiert			
+Skelettbau	Balken	Nicht exportiert			
+Skelettbau	Basislinien	Nicht exportiert			
+Skelettbau	Einfügesymbole	Nicht exportiert			
+Skelettbau	Gurt	Nicht exportiert			
+Skelettbau	Horizontaler Verband	Nicht exportiert			
+Skelettbau	Pfette	Nicht exportiert			
+Skelettbau	Sonstige	Nicht exportiert			
+Skelettbau	Starre Kopplungen	Nicht exportiert			
+Skelettbau	Steg	Nicht exportiert			
+Skelettbau	Tragwerk	Nicht exportiert			
+Skelettbau	Tragwerk - Holz				
+Skelettbau	Tragwerk - Stahlbeton				
+Skelettbau	Tragwerk Holz				
+Skelettbau	Tragwerk Stahl				
+Skelettbau	Tragwerk Stahlbeton				
+Skelettbau	Unsichtbare Linien	Nicht exportiert			
+Skelettbau	Verdeckte Flächen	Nicht exportiert			
+Skelettbau	Verdeckte Kanten				
+Skelettbau	Vertikaler Verband	Nicht exportiert			
+Sonderausstattung		IfcBuildingElementProxy			
+Sonderausstattung	Unsichtbare Linien	Nicht exportiert			
+Sonderausstattung - Beschriftungen		Nicht exportiert			
+Spaces		Not Exported			
+Spaces	Color Fill	Not Exported			
+Spaces	Interior	Not Exported			
+Spaces	Reference	Not Exported			
+Specialty Equipment		Not Exported			
+Specialty Equipment	Hidden Lines	Not Exported			
+Sprinkler		IfcFireSuppressionTerminalType			
+Sprinklers		Not Exported			
+Stairs		Not Exported			
+Stairs	<Above> Cut Marks	Not Exported			
+Stairs	<Above> Nosing Lines	Not Exported			
+Stairs	<Above> Outlines	Not Exported			
+Stairs	<Above> Riser Lines	Not Exported			
+Stairs	<Above> Supports	Not Exported			
+Stairs	Cut Marks	Not Exported			
+Stairs	Hidden Lines	Not Exported			
+Stairs	Nosing Lines	Not Exported			
+Stairs	Outlines	Not Exported			
+Stairs	Riser Lines	Not Exported			
+Stairs	Supports	Not Exported			
+Stairs	Treads/Risers	Not Exported			
+Steifen		Nicht exportiert			
+Steifen	Unsichtbare Linien	Nicht exportiert			
+Steifen - Beschriftungen		Nicht exportiert			
+Straßen		IfcBuildingElementProxy			
+Straßen	Unsichtbare Linien	Nicht exportiert			
+Strebe (analytisch) - Beschriftungen		Nicht exportiert			
+Streben (analytisch)		Nicht exportiert			
+Structural Area Reinforcement		Not Exported			
+Structural Area Reinforcement	Boundary	Not Exported			
+Structural Beam Systems		Not Exported			
+Structural Columns		Not Exported			
+Structural Columns	Hidden Lines	Not Exported			
+Structural Columns	Location Lines	Not Exported			
+Structural Columns	Rigid Links	Not Exported			
+Structural Columns	Stick Symbols	Not Exported			
+Structural Columns	Tragwerk - Stahlbeton	Not Exported			
+Structural Columns	Verdeckte Flächen	Not Exported			
+Structural Columns	Verdeckte Kanten	Not Exported			
+Structural Connections		Not Exported			
+Structural Connections	Hidden Lines	Not Exported			
+Structural Fabric Areas		Not Exported			
+Structural Fabric Areas	Boundary	Not Exported			
+Structural Fabric Reinforcement		Not Exported			
+Structural Fabric Reinforcement	Boundary	Not Exported			
+Structural Fabric Reinforcement	Fabric Wire	Not Exported			
+Structural Foundations		Not Exported			
+Structural Foundations	Hidden Lines	Not Exported			
+Structural Framing		Not Exported			
+Structural Framing	Chord	Not Exported			
+Structural Framing	Einfügesymbole	Not Exported			
+Structural Framing	Girder	Not Exported			
+Structural Framing	Hidden Lines	Not Exported			
+Structural Framing	Horizontal Bracing	Not Exported			
+Structural Framing	Joist	Not Exported			
+Structural Framing	Kicker Bracing	Not Exported			
+Structural Framing	Location Lines	Not Exported			
+Structural Framing	Other	Not Exported			
+Structural Framing	Purlin	Not Exported			
+Structural Framing	Rigid Links	Not Exported			
+Structural Framing	Verdeckte Flächen	Not Exported			
+Structural Framing	Vertical Bracing	Not Exported			
+Structural Framing	Web	Not Exported			
+Structural Path Reinforcement		Not Exported			
+Structural Path Reinforcement	Boundary	Not Exported			
+Structural Rebar		Not Exported			
+Structural Rebar	Hidden Lines	Not Exported			
+Structural Stiffeners		Not Exported			
+Structural Stiffeners	Hidden Lines	Not Exported			
+Structural Trusses		Not Exported			
+Structural Trusses	Stick Symbols	Not Exported			
+Stütze (analytisch) - Beschriftungen		Nicht exportiert			
+Stützen		IfcColumn			
+Stützen	Stahlbetonstütze	Nicht exportiert			
+Stützen	Unsichtbare Linien	Nicht exportiert			
+Stützen (analytisch)		Nicht exportiert			
+Teile		IfcBuildingElementPart			
+Teile	Unsichtbare Linien	Nicht exportiert			
+Telefongeräte		IfcElectricApplianceType			
+Telephone Devices		Not Exported			
+Temporär		Nicht exportiert			
+Topographie		IfcBuildingElementProxy			
+Topographie	Grenzpunkt	IfcBuildingElementProxy			
+Topographie	Innenpunkt	IfcBuildingElementProxy			
+Topographie	Primäre Höhenlinien	IfcBuildingElementProxy			
+Topographie	Sekundäre Höhenlinien	IfcBuildingElementProxy			
+Topographie	Triangulationskanten	IfcBuildingElementProxy			
+Topographie	Unsichtbare Linien	Nicht exportiert			
+Topography		Not Exported			
+Topography	Boundary Point	Not Exported			
+Topography	Hidden Lines	Not Exported			
+Topography	Interior Point	Not Exported			
+Topography	Primary Contours	Not Exported			
+Topography	Secondary Contours	Not Exported			
+Topography	Triangulation Edges	Not Exported			
+Tragwerksstützen		IfcColumn			
+Tragwerksstützen	Basislinien	Nicht exportiert			
+Tragwerksstützen	Einfügesymbole	Nicht exportiert			
+Tragwerksstützen	Starre Kopplungen	Nicht exportiert			
+Tragwerksstützen	Tragwerkstütze Stahlbeton				
+Tragwerksstützen	Unsichtbare Linien	Nicht exportiert			
+Tragwerksstützen	Verdeckte Flächen	Nicht exportiert			
+Tragwerksstützen	Verdeckte Kanten				
+Tragwerksstützenbeschriftungen		Nicht exportiert			
+Treppe - Auflagerbeschriftungen		Nicht exportiert			
+Treppe - Beschriftungen		Nicht exportiert			
+Treppe - Laufbeschriftungen		Nicht exportiert			
+Treppe - Lauflinien		Nicht exportiert			
+Treppe - Lauflinien	<Oberhalb> Pfeil AUF				
+Treppe - Lauflinien	Pfeile AB				
+Treppe - Lauflinien	Pfeile AUF				
+Treppe - Lauflinien	Text AB				
+Treppe - Lauflinien	Text AUF				
+Treppe - Nummerierung Auftritte/Steigugen		Nicht exportiert			
+Treppe - Podestbeschriftungen		Nicht exportiert			
+Treppen		IfcStair			
+Treppen	<Oberhalb> Auflager	IfcStair			
+Treppen	<Oberhalb> Konturen	IfcStair			
+Treppen	<Oberhalb> Schnittmarkierungen	IfcStair			
+Treppen	<Oberhalb> Steigungslinien	IfcStair			
+Treppen	<Oberhalb> Trittüberstandslinien	IfcStair			
+Treppen	Auflager	IfcStair			
+Treppen	Auftritte/Steigungen	IfcStair			
+Treppen	Konturen	IfcStair			
+Treppen	Schnittmarkierungen	IfcStair			
+Treppen	Steigungslinien	IfcStair			
+Treppen	Treppen unvollständig	IfcStair			
+Treppen	Trittüberstandslinien	IfcStair			
+Treppen	Unsichtbare Linien	Nicht exportiert			
+Träger (analytisch)		Nicht exportiert			
+Träger (analytisch) - Beschriftungen		Nicht exportiert			
+Trägerbeschriftung		Nicht exportiert			
+Trägersysteme		IfcAssembly			
+Türbeschriftungen		Nicht exportiert			
+Türen		IfcDoor			
+Türen	Architrav				
+Türen	Beschläge				
+Türen	Element	IfcDoor			
+Türen	Gesims/Architrav				
+Türen	Glas	IfcDoor			
+Türen	Plan Schwenkung				
+Türen	Rahmen/Pfosten	IfcDoor			
+Türen	Sturzlinien	Nicht exportiert			
+Türen	Tragwerksöffnung				
+Türen	Türflügel	Nicht exportiert			
+Türen	Türgriff	Nicht exportiert			
+Türen	Türgriff Fassade				
+Türen	Türsymbol (Ansicht)	Nicht exportiert			
+Türen	Türsymbol (Grundriss)	Nicht exportiert			
+Türen	Türsymbol - Ansicht				
+Türen	Unsichtbare Linien	Nicht exportiert			
+Türen	Öffnung	IfcDoor			
+Umgebung		IfcBuildingElementProxy			
+Umgebung	Unsichtbare Linien	Nicht exportiert			
+Vorhanden		Nicht exportiert			
+Walls		Not Exported			
+Walls	Common Edges	Not Exported			
+Walls	Curtain Wall Grids	Not Exported			
+Walls	Cut Pattern	Not Exported			
+Walls	Finish 1 [4]	Not Exported			
+Walls	Finish 2 [5]	Not Exported			
+Walls	Hidden Lines	Not Exported			
+Walls	Membrane Layer	Not Exported			
+Walls	Profilierte Wand - Sims	Not Exported			
+Walls	Structure [1]	Not Exported			
+Walls	Substrate [2]	Not Exported			
+Walls	Surface Pattern	Not Exported			
+Walls	Thermal/Air Layer [3]	Not Exported			
+Walls	Wall Sweeps	Not Exported			
+Wand (analytisch) - Beschriftungen		Nicht exportiert			
+Wandbeschriftungen		Nicht exportiert			
+Wandfundament (analytisch) - Beschriftungen		Nicht exportiert			
+Wandfundamente (analytisch)		Nicht exportiert			
+Windows		Not Exported			
+Windows	Fensterbank außen	Not Exported			
+Windows	Fensterbank innen	Not Exported			
+Windows	Flügel	Not Exported			
+Windows	Frame/Mullion	Not Exported			
+Windows	Gesims	Not Exported			
+Windows	Glass	Not Exported			
+Windows	Hidden Lines	Not Exported			
+Windows	Opening	Not Exported			
+Windows	Plan Schwenkung	Not Exported			
+Windows	Sill/Head	Not Exported			
+Windows	Stutzen	Not Exported			
+Windows	Türsymbol - Ansicht	Not Exported			
+Windows	Öffnungsrichtung (Ansicht)	Not Exported			
+Windows	Öffnungsrichtung (Draufsicht)	Not Exported			
+Wires		Not Exported			
+Wires	Home Run Arrows	Not Exported			
+Wires	Wire Tick Marks	Not Exported			
+Wände		IfcWall			
+Wände	Dämmung/Luftschicht [3]	Nicht exportiert			
+Wände	Fassadenraster	IfcWall			
+Wände	Fugen	IfcOpeningElement			
+Wände	Gemeinsame Kanten	Nicht exportiert			
+Wände	Geschichtete Wände	IfcWall			
+Wände	Nichttragende Schicht 1 [4]	Nicht exportiert			
+Wände	Nichttragende Schicht 2 [5]	Nicht exportiert			
+Wände	Oberflächenmuster	IfcWall			
+Wände	Profilierte Wand - Sims				
+Wände	Profilierte Wände	IfcBuildingElementProxy			
+Wände	Schnittmuster	Nicht exportiert			
+Wände	Sperrschicht	Nicht exportiert			
+Wände	Tragende Schicht [1]	Nicht exportiert			
+Wände	Träger [2]	Nicht exportiert			
+Wände	Unsichtbare Linien	Nicht exportiert			
+Wände/Innen:1		IfcWall			
+Wände/Außen:2		IfcWall			
+Wände/Fundament:3		IfcWall			
+Wände/Stützwand:4		IfcWall			
+Wände (analytisch)		Nicht exportiert			
+Zonen		IfcZone			
+Zonen	Begrenzung	Nicht exportiert			
+Zonen	Farbfüllung	Nicht exportiert			
+Zonen	Innenfüllung	Nicht exportiert			
+Zonen	Referenzlinien	Nicht exportiert			
