@@ -1,6 +1,6 @@
 # ContentUpYourLife
 BIMUpYourLife content
 
-- BIM content
+- BIM content for Autodesk Revit
 - links and tutorials
 - ...
