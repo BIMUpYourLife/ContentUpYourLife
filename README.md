@@ -5,4 +5,4 @@ BIMUpYourLife content
 - links and tutorials
 - ...
 
-please forke the repository and send pull requests back to us, to integrate the work coordinated!
+please fork the repository and send pull requests back to us, to integrate the work coordinated!
